@@ -1,5 +1,5 @@
 <!-- MAIN NAME HEADER -->
-<h1 align="center">🔥 Abdur Rahman Mamun 🔥</h1>
+<h1 align="center">Abdur Rahman Mamun </h1>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -14,6 +14,32 @@
 🎨 Clean UI & Clean Code Lover  
 📚 Exploring Backend, API Security, Optimization  
 🔥 Goal: Become a full-stack expert  
+
+## 🌐 Connect With Me  
+<p align="center">
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/armamunsyl" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="48"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/armamunsyl" target="_blank" style="margin-left:20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="48"/>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/armamunsyl" target="_blank" style="margin-left:20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="48"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/armamunsyl" target="_blank" style="margin-left:20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="48"/>
+  </a>
+
+</p>
+
 
 ---
 
@@ -72,15 +98,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armamunsyl&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=armamunsyl&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://facebook.com/armamunsyl"><img src="https://skillicons.dev/icons?i=facebook" height="50"/></a>
-  <a href="https://twitter.com/armamunsyl"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
-  <a href="https://linkedin.com/in/armamunsyl"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="https://instagram.com/armamunsyl"><img

@@ -1,4 +1,8 @@
 <!-- MAIN NAME HEADER -->
+<p align="center">
+  <img src="./banner/mybanner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Abdur Rahman Mamun </h1>
 
 <!-- TYPING ANIMATION -->

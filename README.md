@@ -91,6 +91,8 @@
 </p>
 
 ---
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
 # 📊 GitHub Insights  
 <p align="center">

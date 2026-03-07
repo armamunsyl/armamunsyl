@@ -13,7 +13,7 @@
 ---
 
 ## ⭐ About Me  
-💻 Passionate MERN Stack Developer  
+💻 Passionate Full Stack Developer  
 🚀 Love building modern, fast, user-focused applications  
 🎨 Clean UI & Clean Code Lover  
 📚 Exploring Backend, API Security, Optimization  

@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=22c55e&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Frontend+%7C+Backend+%7C+Full+Stack;JavaScript+%7C+React+%7C+Node.js+Expert;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=22c55e&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Frontend+%7C+Backend+%7C+Full+Stack;JavaScript+%7C+React+%7C+Node.js+Expert;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 ---

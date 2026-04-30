@@ -1,6 +1,6 @@
 <!-- MAIN NAME HEADER -->
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczOROdU9TyLtrdTgCp7Kz8ReicwEyPXItSfXGeKXDamVxrGb2_5EfWBmyl1xrO12iyJHrvzDtWqg9hEh94sWSlJkr-GI7ukWXkX1mD7Utz7fsweV6-CEp8_kbIuqD7KQbDFVILiaMccqESqPC25eSr8B=w2400-h600-s-no-gm?authuser=0" alt="Banner" width="100%" />
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczOJFCJ6JjnFGjCwKLGhP5IgWrewoI5dX738we7578tq61eapvKE-fZUP3-wUbnGUCRKpBQ_jUDqJcyEcWKivfP4iAhMMJZlsJB4lgFUUI3FxHgQlRMFzKrTfKSP5NRLelQ1_kEggxu2gikR0ohCXSha=w2560-h640-s-no-gm?authuser=0" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Abdur Rahman Mamun </h1>

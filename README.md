@@ -175,31 +175,31 @@ These communities allow me to connect with developers, learners, founders, and t
   <tr>
     <td><a href="https://www.facebook.com/groups/claudeaicommunity">Claud Ai Community</a></td>
     <td>Facebook</td>
-    <td><b>2.6M+</b></td>
+    <td><b>3.2M+</b></td>
     <td> AI | Engineering | Technology</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.facebook.com/groups/n8ncommunitybangladesh">n8n & AI Automation Experts</a></td>
+    <td>Facebook</td>
+    <td><b>94k+</b></td>
+    <td>n8n AI Automation</td>
   </tr>
     <tr>
     <td><a href="https://www.facebook.com/groups/claudedesign">Claud Design</a></td>
     <td>Facebook</td>
-    <td><b>60k+</b></td>
-    <td>Frontend Design</td>
+    <td><b>73k+</b></td>
+    <td>Frontend Engineering</td>
   </tr>
   <tr>
-    <td><a href="https://www.facebook.com/groups/clawdbotcommunity">OpenClaw | Clawdbot Community</a></td>
+    <td><a href="https://www.facebook.com/groups/clawdbotcommunity">Agentic AI & Automation</a></td>
     <td>Facebook</td>
-    <td><b>50k+</b></td>
+    <td><b>66k+</b></td>
     <td>AI Agent | Agentic AI</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.facebook.com/groups/n8ncommunitybangladesh">n8n & AI Automation Experts</a></td>
-    <td>Facebook</td>
-    <td><b>9.5k+</b></td>
-    <td>n8n AI Automation</td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Community%20Builder-2.7M%2B%20Audience-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Community%20Builder-3.4M%2B%20Audience-22c55e?style=for-the-badge" />
 </p>
 
 ---
